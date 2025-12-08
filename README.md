@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi! My name is Marcin. I’m a Software technologist working mostly in the world of big data and distribued systems. 
+
+- 🔭 I’m currently working on GossipGrid - a distributed KV database
+- 🌱 I’m currently learning Rust programming language
+- 📫 How to reach me: [@markosski on X](https://x.com/martez81)
+- 😄 Pronouns: Your/Majesty
+- ⚡ Fun fact: TBD
+
 <!--
 **markosski/markosski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
